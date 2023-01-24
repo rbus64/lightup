@@ -1,6 +1,6 @@
 # lightup-04b
 
-A project done by Adrien Coussement, Gaetan Cantelobre, Baptiste Rolando.
+A project done by  Baptiste Rolando.
 
 ## Rules
 
