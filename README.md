@@ -1,7 +1,4 @@
 # lightup-04b
-
-A project done by  Baptiste Rolando.
-
 ## Rules
 
 This game is a simple one-player puzzle, called *Light Up* in the
